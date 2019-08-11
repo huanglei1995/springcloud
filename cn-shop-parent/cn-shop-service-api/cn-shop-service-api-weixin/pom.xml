@@ -11,11 +11,11 @@
 
     <artifactId>cn-shop-service-api-weixin</artifactId>
     <dependencies>
-        <!--<dependency>
+        <dependency>
             <groupId>com.cnshop</groupId>
             <artifactId>cn-shop-service-api-weixin-entity</artifactId>
             <version>1.0.1</version>
-        </dependency>-->
+        </dependency>
     </dependencies>
 
 
