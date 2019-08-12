@@ -7,6 +7,10 @@
     <file url="file://$PROJECT_DIR$/cn-shop-basic" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cn-shop-basic/cn-shop-basic-springcloud-eureka" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cn-shop-service-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cn-shop-service-api/cn-shop-service-api-member" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cn-shop-service-api/cn-shop-service-api-weixin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cn-shop-service-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-member" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-weixin" charset="UTF-8" />
   </component>
 </project>

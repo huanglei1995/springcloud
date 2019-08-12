@@ -6,17 +6,24 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="cn-shop-service-weixin" />
         <module name="cn-shop-basic-springcloud-eureka" />
-        <module name="cn-shop-service-api-weixin" />
+        <module name="cn-shop-service-member" />
         <module name="cn-shop-service-api-weixin-entity" />
+        <module name="cn-shop-service-api-member" />
+        <module name="cn-shop-service-api-weixin" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="cn-shop-basic-springcloud-eureka" options="-parameters" />
+      <module name="cn-shop-service-api-member" options="-parameters" />
       <module name="cn-shop-service-api-weixin" options="-parameters" />
       <module name="cn-shop-service-api-weixin-entity" options="-parameters" />
+      <module name="cn-shop-service-impl" options="-parameters" />
+      <module name="cn-shop-service-member" options="-parameters" />
+      <module name="cn-shop-service-weixin" options="-parameters" />
     </option>
   </component>
 </project>

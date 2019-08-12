@@ -1,0 +1,20 @@
+server:
+  port: 8300
+
+spring:
+  application:
+    name: app-cnshop-number
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8100/eureka/
+
+# swagger配置
+swagger:
+  base-package: com.cnshop.number.service
+  title: 会员服务接口
+  description: 这是会员服务接口
+  version: 1.1
+  contact:
+    name: 黄磊
+    email: 1603805837@qq.com

@@ -1,5 +1,6 @@
 package com.cnshop.entity;
 
+import lombok.AllArgsConstructor;
 import lombok.Data;
 
 /**
@@ -8,9 +9,12 @@ import lombok.Data;
  * @description: 微信应用实体类
  */
 @Data
+@AllArgsConstructor
 public class AppEntity {
 
     private String appId;
 
     private String appName;
+
+
 }

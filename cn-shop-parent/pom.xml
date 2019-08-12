@@ -11,6 +11,7 @@
         <module>cn-shop-basic</module>
         <module>cn-shop-service-api</module>
         <module>cn-shop-api-entity-api</module>
+        <module>cn-shop-service-impl</module>
     </modules>
     <packaging>pom</packaging>
 
