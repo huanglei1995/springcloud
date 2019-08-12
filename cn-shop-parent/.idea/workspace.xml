@@ -2,26 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d95ec66a-d2e7-40e9-b5b2-1f81089d5eb1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cn-shop-service-api/cn-shop-service-api-member/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-service-api/cn-shop-service-api-member/src/main/java/com/cnshop/member/service/MemberService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-member/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-member/src/main/java/com/cnshop/number/AppMember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-member/src/main/java/com/cnshop/number/feign/WeixinServiceFeign.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-member/src/main/java/com/cnshop/number/service/impl/MemberServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-member/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-weixin/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-weixin/src/main/java/com/cnshop/weixin/AppWeixin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-weixin/src/main/java/com/cnshop/weixin/service/impl/WeixinServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-weixin/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-service-impl/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cn-shop-basic/cn-shop-basic-springcloud-zuul/cn-shop-basic-springcloud-zuul.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cn-shop-basic/cn-shop-basic-springcloud-zuul/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cn-shop-basic/cn-shop-basic-springcloud-zuul/src/main/java/com/cnshop/AppGateWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cn-shop-basic/cn-shop-basic-springcloud-zuul/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cn-shop-api-entity-api/cn-shop-service-api-weixin-entity/src/main/java/com/cnshop/entity/AppEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/cn-shop-api-entity-api/cn-shop-service-api-weixin-entity/src/main/java/com/cnshop/entity/AppEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cn-shop-service-api/cn-shop-service-api-weixin/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cn-shop-service-api/cn-shop-service-api-weixin/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cn-shop-service-api/cn-shop-service-api-weixin/src/main/java/com/cnshop/weixin/service/WeiXinService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cn-shop-service-api/cn-shop-service-api-weixin/src/main/java/com/cnshop/weixin/service/WeiXinService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cn-shop-service-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cn-shop-service-api/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cn-shop-basic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cn-shop-basic/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -35,6 +23,7 @@
     <ignored path="$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-weixin/target/" />
     <ignored path="$PROJECT_DIR$/cn-shop-service-api/cn-shop-service-api-member/target/" />
     <ignored path="$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-member/target/" />
+    <ignored path="$PROJECT_DIR$/cn-shop-basic/cn-shop-basic-springcloud-zuul/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,11 +35,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-weixin/src/main/java/com/cnshop/weixin/AppWeixin.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cn-shop-basic/cn-shop-basic-springcloud-zuul/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+            <state relative-caret-position="286">
+              <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-member/src/main/java/com/cnshop/number/service/impl/MemberServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="19" column="35" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#568#569#0" expanded="true" />
+                <element signature="e#618#619#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cn-shop-basic/cn-shop-basic-springcloud-zuul/src/main/java/com/cnshop/AppGateWay.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret line="41" column="29" lean-forward="true" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -59,10 +71,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-weixin/src/main/resources/application.yml">
+        <entry file="file://$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-member/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="10" column="41" lean-forward="true" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+            <state relative-caret-position="150">
+              <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -117,6 +129,9 @@
         <option value="$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-weixin/src/main/java/cn/shop/weixin/AppWeixin.java" />
         <option value="$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-weixin/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-member/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/cn-shop-basic/cn-shop-basic-springcloud-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/cn-shop-basic/cn-shop-basic-springcloud-zuul/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/cn-shop-basic/cn-shop-basic-springcloud-zuul/src/main/java/com/cnshop/AppGateWay.java" />
       </list>
     </option>
   </component>
@@ -129,17 +144,7 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="cn-shop-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="cn-shop-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
@@ -155,8 +160,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -167,12 +170,178 @@
             <path>
               <item name="cn-shop-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="cn-shop-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="cn-shop-basic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cn-shop-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cn-shop-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="cn-shop-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="cn-shop-basic-springcloud-zuul" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cn-shop-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cn-shop-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="cn-shop-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="cn-shop-basic-springcloud-zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cn-shop-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cn-shop-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="cn-shop-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="cn-shop-basic-springcloud-zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cn-shop-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cn-shop-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="cn-shop-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="cn-shop-basic-springcloud-zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cn-shop-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cn-shop-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="cn-shop-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="cn-shop-basic-springcloud-zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cn-shop-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cn-shop-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="cn-shop-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="cn-shop-basic-springcloud-zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="cnshop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cn-shop-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cn-shop-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="cn-shop-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="cn-shop-basic-springcloud-zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cn-shop-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cn-shop-parent" type="462c0819:PsiDirectoryNode" />
               <item name="cn-shop-service-impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cn-shop-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cn-shop-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="cn-shop-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="cn-shop-service-member" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cn-shop-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cn-shop-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="cn-shop-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="cn-shop-service-member" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cn-shop-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cn-shop-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="cn-shop-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="cn-shop-service-member" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cn-shop-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cn-shop-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="cn-shop-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="cn-shop-service-member" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cn-shop-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cn-shop-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="cn-shop-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="cn-shop-service-member" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cn-shop-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cn-shop-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="cn-shop-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="cn-shop-service-member" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="cnshop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cn-shop-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cn-shop-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="cn-shop-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="cn-shop-service-member" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="cnshop" type="462c0819:PsiDirectoryNode" />
+              <item name="number" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cn-shop-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cn-shop-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="cn-shop-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="cn-shop-service-member" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="cnshop" type="462c0819:PsiDirectoryNode" />
+              <item name="number" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cn-shop-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cn-shop-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="cn-shop-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="cn-shop-service-member" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="cnshop" type="462c0819:PsiDirectoryNode" />
+              <item name="number" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cn-shop-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cn-shop-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="cn-shop-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="cn-shop-service-member" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -203,7 +372,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.AppMember">
+  <component name="RunManager" selected="Spring Boot.AppGateWay">
     <configuration name="AppEureka" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="cn-shop-basic-springcloud-eureka" />
       <extension name="coverage">
@@ -213,6 +382,19 @@
         </pattern>
       </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.cnshop.AppEureka" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppGateWay" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cn-shop-basic-springcloud-zuul" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cnshop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cnshop.AppGateWay" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -248,9 +430,11 @@
       <item itemvalue="Spring Boot.AppEureka" />
       <item itemvalue="Spring Boot.AppMember" />
       <item itemvalue="Spring Boot.AppWeixin" />
+      <item itemvalue="Spring Boot.AppGateWay" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.AppGateWay" />
         <item itemvalue="Spring Boot.AppMember" />
         <item itemvalue="Spring Boot.AppWeixin" />
         <item itemvalue="Spring Boot.AppEureka" />
@@ -271,11 +455,12 @@
       <workItem from="1565531744126" duration="4203000" />
       <workItem from="1565536636120" duration="1219000" />
       <workItem from="1565609391166" duration="7718000" />
+      <workItem from="1565618352065" duration="2816000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13756000" />
+    <option name="totallyTimeSpent" value="16572000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -296,7 +481,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49839914" weight="0.32897604" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49839914" visible="true" weight="0.32897604" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50160086" side_tool="true" weight="0.39978212" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
@@ -401,13 +586,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-member/src/main/java/com/cnshop/number/service/impl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-member/src/main/java/com/cnshop/number/service/impl.java" />
     <entry file="file://$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-weixin/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
@@ -426,18 +605,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="302">
           <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-member/src/main/java/com/cnshop/number/service/impl/MemberServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="19" column="35" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#568#569#0" expanded="true" />
-            <element signature="e#612#613#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -488,13 +655,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-member/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-weixin/src/main/java/com/cnshop/weixin/service/impl/WeixinServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="181">
@@ -507,19 +667,62 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/cn-shop-basic/cn-shop-basic-springcloud-zuul/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-weixin/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="10" column="41" lean-forward="true" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+        <state relative-caret-position="300">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-weixin/src/main/java/com/cnshop/weixin/AppWeixin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        <state relative-caret-position="210">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-member/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cn-shop-basic/cn-shop-basic-springcloud-zuul/src/main/java/com/cnshop/AppGateWay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="41" column="29" lean-forward="true" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cn-shop-basic/cn-shop-basic-springcloud-zuul/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-member/src/main/java/com/cnshop/number/service/impl/MemberServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="19" column="35" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#568#569#0" expanded="true" />
+            <element signature="e#618#619#0" expanded="true" />
           </folding>
         </state>
       </provider>

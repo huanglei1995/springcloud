@@ -11,6 +11,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>cn-shop-basic-springcloud-eureka</module>
+        <module>cn-shop-basic-springcloud-zuul</module>
     </modules>
     <artifactId>cn-shop-basic</artifactId>
 
