@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d95ec66a-d2e7-40e9-b5b2-1f81089d5eb1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cn-shop-basic/cn-shop-basic-springcloud-zuul/cn-shop-basic-springcloud-zuul.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-basic/cn-shop-basic-springcloud-zuul/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-basic/cn-shop-basic-springcloud-zuul/src/main/java/com/cnshop/AppGateWay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-basic/cn-shop-basic-springcloud-zuul/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cn-shop-basic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cn-shop-basic/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cn-shop-basic/cn-shop-basic-springcloud-zuul/cn-shop-basic-springcloud-zuul.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-weixin/src/main/java/com/cnshop/weixin/AppWeixin.java" beforeDir="false" afterPath="$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-weixin/src/main/java/com/cnshop/weixin/AppWeixin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-weixin/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-weixin/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cn-shop-service-impl/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cn-shop-service-impl/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -36,45 +35,46 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cn-shop-basic/cn-shop-basic-springcloud-zuul/src/main/resources/application.yml">
+        <entry file="file://$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-weixin/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+            <state relative-caret-position="304">
+              <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-member/src/main/java/com/cnshop/number/service/impl/MemberServiceImpl.java">
+        <entry file="file://$PROJECT_DIR$/cn-shop-service-impl/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="19" column="35" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#568#569#0" expanded="true" />
-                <element signature="e#618#619#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="335">
+              <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cn-shop-basic/cn-shop-basic-springcloud-zuul/src/main/java/com/cnshop/AppGateWay.java">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/springfox/springfox-schema/2.9.2/springfox-schema-2.9.2.jar!/springfox/documentation/schema/plugins/SchemaPluginsManager.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="41" column="29" lean-forward="true" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="402">
+              <caret line="70" column="29" selection-start-line="70" selection-start-column="29" selection-end-line="70" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-member/src/main/resources/application.yml">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="27" />
+            <state relative-caret-position="266">
+              <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0.jar!/com/google/common/collect/FluentIterable.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="124" column="33" selection-start-line="124" selection-start-column="33" selection-end-line="124" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -94,6 +94,7 @@
       <find>https://repo.spring.io/libs-milestone</find>
       <find>libs-milestone</find>
       <find>cn.shop.weixin.AppWeixin</find>
+      <find>guava</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -112,13 +113,11 @@
         <option value="$PROJECT_DIR$/cn-shop-service-api/cn-shop-service-api-weixin/src/main/java/com/cnshop/entity/AppEntity.java" />
         <option value="$PROJECT_DIR$/cn-shop-api-entity-api/pom.xml" />
         <option value="$PROJECT_DIR$/cn-shop-api-entity-api/cn-shop-service-api-weixin-entity/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/cn-shop-service-api/cn-shop-service-api-weixin/pom.xml" />
         <option value="$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-weixin/pom.xml" />
         <option value="$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-weixin/src/main/java/cn/shop/weixin/service/impl/WeixinServiceImpl.java" />
         <option value="$PROJECT_DIR$/cn-shop-api-entity-api/cn-shop-service-api-weixin-entity/src/main/java/com/cnshop/entity/AppEntity.java" />
         <option value="$PROJECT_DIR$/cn-shop-service-api/cn-shop-service-api-member/pom.xml" />
-        <option value="$PROJECT_DIR$/cn-shop-service-impl/pom.xml" />
         <option value="$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-member/src/main/java/com/cnshop/number/service/impl/MemberServiceImpl.java" />
         <option value="$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-member/pom.xml" />
         <option value="$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-member/src/main/java/com/cnshop/number/feign/WeixinServiceFeign.java" />
@@ -132,10 +131,20 @@
         <option value="$PROJECT_DIR$/cn-shop-basic/cn-shop-basic-springcloud-zuul/pom.xml" />
         <option value="$PROJECT_DIR$/cn-shop-basic/cn-shop-basic-springcloud-zuul/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/cn-shop-basic/cn-shop-basic-springcloud-zuul/src/main/java/com/cnshop/AppGateWay.java" />
+        <option value="$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-weixin/src/main/java/com/cnshop/weixin/AppWeixin.java" />
+        <option value="$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-weixin/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/cn-shop-service-impl/pom.xml" />
       </list>
     </option>
   </component>
   <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/soft/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\soft\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="vmOptionsForImporter" value="-Xmx768m" />
@@ -157,9 +166,12 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <showExcludedFiles Scope="true" ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -175,190 +187,50 @@
             <path>
               <item name="cn-shop-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="cn-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="cn-shop-basic" type="462c0819:PsiDirectoryNode" />
-              <item name="cn-shop-basic-springcloud-zuul" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cn-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cn-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="cn-shop-basic" type="462c0819:PsiDirectoryNode" />
-              <item name="cn-shop-basic-springcloud-zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cn-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cn-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="cn-shop-basic" type="462c0819:PsiDirectoryNode" />
-              <item name="cn-shop-basic-springcloud-zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cn-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cn-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="cn-shop-basic" type="462c0819:PsiDirectoryNode" />
-              <item name="cn-shop-basic-springcloud-zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cn-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cn-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="cn-shop-basic" type="462c0819:PsiDirectoryNode" />
-              <item name="cn-shop-basic-springcloud-zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cn-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cn-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="cn-shop-basic" type="462c0819:PsiDirectoryNode" />
-              <item name="cn-shop-basic-springcloud-zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="cnshop" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cn-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cn-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="cn-shop-basic" type="462c0819:PsiDirectoryNode" />
-              <item name="cn-shop-basic-springcloud-zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cn-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cn-shop-parent" type="462c0819:PsiDirectoryNode" />
               <item name="cn-shop-service-impl" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cn-shop-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="cn-shop-parent" type="462c0819:PsiDirectoryNode" />
               <item name="cn-shop-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="cn-shop-service-member" type="462c0819:PsiDirectoryNode" />
+              <item name="cn-shop-service-weixin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cn-shop-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="cn-shop-parent" type="462c0819:PsiDirectoryNode" />
               <item name="cn-shop-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="cn-shop-service-member" type="462c0819:PsiDirectoryNode" />
+              <item name="cn-shop-service-weixin" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cn-shop-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="cn-shop-parent" type="462c0819:PsiDirectoryNode" />
               <item name="cn-shop-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="cn-shop-service-member" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cn-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cn-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="cn-shop-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="cn-shop-service-member" type="462c0819:PsiDirectoryNode" />
+              <item name="cn-shop-service-weixin" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cn-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cn-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="cn-shop-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="cn-shop-service-member" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cn-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cn-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="cn-shop-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="cn-shop-service-member" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="cnshop" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cn-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cn-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="cn-shop-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="cn-shop-service-member" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="cnshop" type="462c0819:PsiDirectoryNode" />
-              <item name="number" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cn-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cn-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="cn-shop-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="cn-shop-service-member" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="cnshop" type="462c0819:PsiDirectoryNode" />
-              <item name="number" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cn-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cn-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="cn-shop-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="cn-shop-service-member" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="cnshop" type="462c0819:PsiDirectoryNode" />
-              <item name="number" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cn-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cn-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="cn-shop-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="cn-shop-service-member" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
-    <property name="RequestMappingsPanelWidth0" value="75" />
-    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth0" value="15" />
+    <property name="RequestMappingsPanelWidth1" value="15" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../apollo-build-scripts" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.57701147" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -372,7 +244,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.AppGateWay">
+  <component name="RunManager" selected="Spring Boot.AppWeixin">
     <configuration name="AppEureka" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="cn-shop-basic-springcloud-eureka" />
       <extension name="coverage">
@@ -434,10 +306,10 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.AppGateWay" />
-        <item itemvalue="Spring Boot.AppMember" />
         <item itemvalue="Spring Boot.AppWeixin" />
         <item itemvalue="Spring Boot.AppEureka" />
+        <item itemvalue="Spring Boot.AppGateWay" />
+        <item itemvalue="Spring Boot.AppMember" />
       </list>
     </recent_temporary>
   </component>
@@ -455,17 +327,27 @@
       <workItem from="1565531744126" duration="4203000" />
       <workItem from="1565536636120" duration="1219000" />
       <workItem from="1565609391166" duration="7718000" />
-      <workItem from="1565618352065" duration="2816000" />
+      <workItem from="1565618352065" duration="4189000" />
+      <workItem from="1565698406952" duration="1227000" />
+      <workItem from="1565781607484" duration="701000" />
+      <workItem from="1566017942635" duration="2484000" />
+      <workItem from="1566023069721" duration="599000" />
+      <workItem from="1566033737937" duration="3090000" />
+      <workItem from="1566042262944" duration="4100000" />
+      <workItem from="1566046447406" duration="75000" />
+      <workItem from="1566046537424" duration="1277000" />
+      <workItem from="1566048224242" duration="567000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16572000" />
+    <option name="totallyTimeSpent" value="32065000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19189766" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -475,24 +357,24 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49786553" weight="0.32897604" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49839914" weight="0.39978212" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49786553" weight="0.3286334" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49839914" visible="true" weight="0.31453362" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49839914" visible="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4978678" weight="0.30877572" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50160086" side_tool="true" weight="0.39978212" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5021322" side_tool="true" weight="0.30911064" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
-      <window_info anchor="bottom" id="Messages" order="14" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.329718" />
       <window_info anchor="bottom" id="MyBatis Log" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.3036286" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.30810234" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="BPMNPalette" order="6" />
@@ -541,20 +423,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cn-shop-api-entity-api/cn-shop-service-api-weixin-entity/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="75" column="38" selection-start-line="75" selection-start-column="38" selection-end-line="75" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cn-shop-basic/cn-shop-basic-springcloud-eureka/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -572,13 +440,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cn-shop-service-api/cn-shop-service-api-weixin/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="19" column="19" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cn-shop-service-api/cn-shop-service-api-member/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="436">
@@ -587,20 +448,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-member/src/main/java/com/cnshop/number/service/impl.java" />
-    <entry file="file://$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-weixin/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cn-shop-service-impl/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="22" column="44" lean-forward="true" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-member/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="302">
@@ -674,34 +521,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-weixin/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-weixin/src/main/java/com/cnshop/weixin/AppWeixin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-member/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="27" />
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cn-shop-basic/cn-shop-basic-springcloud-zuul/src/main/java/com/cnshop/AppGateWay.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="226">
-          <caret line="41" column="29" lean-forward="true" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
+          <caret line="41" column="29" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -727,6 +557,88 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-weixin/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-weixin/src/main/java/com/cnshop/weixin/AppWeixin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
+            <element signature="e#615#616#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cn-shop-api-entity-api/cn-shop-service-api-weixin-entity/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cn-shop-service-api/cn-shop-service-api-weixin/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="16" column="52" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.30/fastjson-1.2.30.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="59" column="24" selection-start-line="59" selection-start-column="24" selection-end-line="59" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0.jar!/com/google/common/collect/FluentIterable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="124" column="33" selection-start-line="124" selection-start-column="33" selection-end-line="124" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-weixin/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/springfox/springfox-schema/2.9.2/springfox-schema-2.9.2.jar!/springfox/documentation/schema/plugins/SchemaPluginsManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="70" column="29" selection-start-line="70" selection-start-column="29" selection-end-line="70" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/springfox/springfox-schema/2.9.2/springfox-schema-2.9.2.jar!/springfox/documentation/schema/DefaultModelDependencyProvider.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cn-shop-service-impl/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
@@ -736,7 +648,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.57701147" />
               </list>
             </option>
           </splitter-proportions>
@@ -744,10 +656,11 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
+          <last-edited>Spring</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.57701147" />
               </list>
             </option>
           </splitter-proportions>
@@ -755,10 +668,11 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: com.google.guava:guava:20.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.57701147" />
               </list>
             </option>
           </splitter-proportions>
@@ -766,10 +680,11 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.57701147" />
               </list>
             </option>
           </splitter-proportions>
@@ -781,7 +696,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.57701147" />
               </list>
             </option>
           </splitter-proportions>
@@ -801,10 +716,11 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: com.google.guava:guava:16.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.57701147" />
               </list>
             </option>
           </splitter-proportions>
