@@ -36,11 +36,10 @@
         </dependency>
 
         <dependency>
-            <groupId>com.google.guava</groupId>
-            <artifactId>guava</artifactId>
-            <version>20.0</version>
+            <groupId>com.cnshop</groupId>
+            <artifactId>cn-shop-common-core</artifactId>
+            <version>1.0.1</version>
         </dependency>
-
     </dependencies>
 
     <dependencyManagement>

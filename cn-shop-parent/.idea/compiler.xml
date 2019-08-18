@@ -11,6 +11,7 @@
         <module name="cn-shop-service-member" />
         <module name="cn-shop-service-api-weixin-entity" />
         <module name="cn-shop-service-api-member" />
+        <module name="cn-shop-common-core" />
         <module name="cn-shop-basic-springcloud-zuul" />
         <module name="cn-shop-service-api-weixin" />
       </profile>
@@ -20,6 +21,8 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="cn-shop-basic-springcloud-eureka" options="-parameters" />
       <module name="cn-shop-basic-springcloud-zuul" options="-parameters" />
+      <module name="cn-shop-common" options="-parameters" />
+      <module name="cn-shop-common-core" options="-parameters" />
       <module name="cn-shop-service-api-member" options="-parameters" />
       <module name="cn-shop-service-api-weixin" options="-parameters" />
       <module name="cn-shop-service-api-weixin-entity" options="-parameters" />
