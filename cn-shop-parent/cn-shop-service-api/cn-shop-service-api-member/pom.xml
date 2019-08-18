@@ -16,6 +16,18 @@
             <artifactId>cn-shop-service-api-weixin-entity</artifactId>
             <version>1.0.1</version>
         </dependency>
+        <dependency>
+            <groupId>com.cnshop</groupId>
+            <artifactId>cn-shop-service-api-member-entity</artifactId>
+            <version>1.0.1</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.cnshop</groupId>
+            <artifactId>cn-shop-common-core</artifactId>
+            <version>1.0.1</version>
+            <scope>compile</scope>
+        </dependency>
     </dependencies>
 
 </project>

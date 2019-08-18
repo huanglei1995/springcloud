@@ -3,6 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cn-shop-api-entity-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cn-shop-api-entity-api/cn-shop-service-api-member-entity" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cn-shop-api-entity-api/cn-shop-service-api-weixin-entity" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cn-shop-basic" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cn-shop-basic/cn-shop-basic-springcloud-eureka" charset="UTF-8" />

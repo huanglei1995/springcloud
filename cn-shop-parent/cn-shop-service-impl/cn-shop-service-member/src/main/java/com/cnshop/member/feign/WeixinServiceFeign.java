@@ -1,9 +1,7 @@
-package com.cnshop.number.feign;
+package com.cnshop.member.feign;
 
-import com.cnshop.entity.AppEntity;
 import com.cnshop.weixin.service.WeiXinService;
 import org.springframework.cloud.openfeign.FeignClient;
-import org.springframework.web.bind.annotation.GetMapping;
 
 /**
  * @auther: 黄磊

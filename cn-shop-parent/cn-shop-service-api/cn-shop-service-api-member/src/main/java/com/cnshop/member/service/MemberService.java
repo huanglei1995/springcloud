@@ -1,5 +1,6 @@
 package com.cnshop.member.service;
 
+import com.cnshop.core.base.BaseResponse;
 import com.cnshop.entity.AppEntity;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
@@ -19,5 +20,5 @@ public interface MemberService {
      */
     @ApiOperation(value = "会员服务调用微信服务")
     @GetMapping("/memberToWeixin")
-    public AppEntity memberToWeixin();
+    public BaseResponse<AppEntity> memberToWeixin();
 }

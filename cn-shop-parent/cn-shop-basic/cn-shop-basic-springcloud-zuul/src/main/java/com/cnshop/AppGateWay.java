@@ -46,7 +46,7 @@ public class AppGateWay {
         @Override
         public List<SwaggerResource> get() {
 //            List resources = new ArrayList();
-//            resources.add(swaggerResource("app-cnshop-number", "/app-cnshop-number/v2/api-docs", "1.0.1"));
+//            resources.add(swaggerResource("app-cnshop-member", "/app-cnshop-member/v2/api-docs", "1.0.1"));
 //            resources.add(swaggerResource("app-cnshop-weixin", "/app-cnshop-weixin/v2/api-docs", "1.0.1"));
             return resources();
         }

@@ -1,5 +1,6 @@
 package com.cnshop.weixin.service;
 
+import com.cnshop.core.base.BaseResponse;
 import com.cnshop.entity.AppEntity;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
@@ -15,5 +16,5 @@ public interface WeiXinService {
 
     @GetMapping("/getApp")
     @ApiOperation(value = "微信应用服务接口")
-    public AppEntity getApp();
+    public BaseResponse<AppEntity> getApp();
 }
