@@ -6,20 +6,28 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="cn-shop-api-member-dto" />
         <module name="cn-shop-service-weixin" />
         <module name="cn-shop-basic-springcloud-eureka" />
         <module name="cn-shop-service-member" />
-        <module name="cn-shop-service-api-weixin-entity" />
-        <module name="cn-shop-service-api-member" />
-        <module name="cn-shop-service-api-member-entity" />
         <module name="cn-shop-common-core" />
         <module name="cn-shop-basic-springcloud-zuul" />
+        <module name="cn-shop-service-api-member" />
+        <module name="cn-shop-api-weixin-dto" />
         <module name="cn-shop-service-api-weixin" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cn-shop-api-entity-api" target="1.8" />
+      <module name="cn-shop-service-api-member-entity" target="1.8" />
+      <module name="cn-shop-service-api-weixin-entity" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cn-shop-api-dto" options="-parameters" />
+      <module name="cn-shop-api-member-dto" options="-parameters" />
+      <module name="cn-shop-api-weixin-dto" options="-parameters" />
       <module name="cn-shop-basic-springcloud-eureka" options="-parameters" />
       <module name="cn-shop-basic-springcloud-zuul" options="-parameters" />
       <module name="cn-shop-common" options="-parameters" />

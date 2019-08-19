@@ -3,25 +3,19 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <artifactId>cn-shop-service-api</artifactId>
+        <artifactId>cn-shop-api-dto</artifactId>
         <groupId>com.cnshop</groupId>
         <version>1.0.1</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>cn-shop-service-api-weixin</artifactId>
-
+    <artifactId>cn-shop-api-member-dto</artifactId>
     <dependencies>
+        <!-- swagger-spring-boot -->
         <dependency>
-            <groupId>com.cnshop</groupId>
-            <artifactId>cn-shop-api-weixin-dto</artifactId>
-            <version>1.0.1</version>
-        </dependency>
-        <dependency>
-            <groupId>com.cnshop</groupId>
-            <artifactId>cn-shop-common-core</artifactId>
-            <version>1.0.1</version>
-            <scope>compile</scope>
+            <groupId>com.spring4all</groupId>
+            <artifactId>swagger-spring-boot-starter</artifactId>
+            <version>1.9.0.RELEASE</version>
         </dependency>
     </dependencies>
 

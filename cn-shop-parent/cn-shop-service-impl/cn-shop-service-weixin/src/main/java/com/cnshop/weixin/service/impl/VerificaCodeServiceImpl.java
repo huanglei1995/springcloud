@@ -1,9 +1,9 @@
 package com.cnshop.weixin.service.impl;
 
 import com.alibaba.fastjson.JSONObject;
-import com.cnshop.core.base.BaseApiService;
-import com.cnshop.core.base.BaseResponse;
-import com.cnshop.core.constant.Constants;
+import com.cnshop.base.BaseApiService;
+import com.cnshop.base.BaseResponse;
+import com.cnshop.constant.Constants;
 import com.cnshop.core.utils.RedisUtils;
 import com.cnshop.weixin.service.VerificaCodeService;
 import org.apache.commons.lang3.StringUtils;

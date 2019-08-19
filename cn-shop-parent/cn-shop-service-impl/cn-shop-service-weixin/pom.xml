@@ -34,6 +34,18 @@
             <artifactId>weixin-java-mp</artifactId>
             <version>3.3.0</version>
         </dependency>
+        <dependency>
+            <groupId>com.cnshop</groupId>
+            <artifactId>cn-shop-api-weixin-dto</artifactId>
+            <version>1.0.1</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.cnshop</groupId>
+            <artifactId>cn-shop-service-api-member</artifactId>
+            <version>1.0.1</version>
+            <scope>compile</scope>
+        </dependency>
 
     </dependencies>
 

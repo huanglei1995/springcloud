@@ -1,7 +1,7 @@
 package com.cnshop.weixin.service;
 
 import com.alibaba.fastjson.JSONObject;
-import com.cnshop.core.base.BaseResponse;
+import com.cnshop.base.BaseResponse;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiImplicitParam;
 import io.swagger.annotations.ApiImplicitParams;

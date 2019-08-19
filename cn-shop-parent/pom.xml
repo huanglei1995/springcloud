@@ -10,9 +10,9 @@
     <modules>
         <module>cn-shop-basic</module>
         <module>cn-shop-service-api</module>
-        <module>cn-shop-api-entity-api</module>
         <module>cn-shop-service-impl</module>
         <module>cn-shop-common</module>
+        <module>cn-shop-api-dto</module>
     </modules>
     <packaging>pom</packaging>
 

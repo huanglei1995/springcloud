@@ -93,7 +93,6 @@ public class WxPortalController {
         } catch (Exception e) {
             this.logger.error("路由消息时出现异常！", e);
         }
-
         return null;
     }
 

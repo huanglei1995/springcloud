@@ -1,9 +1,14 @@
 package com.cnshop.member.service.impl;
 
-import com.cnshop.core.base.BaseResponse;
-import com.cnshop.entity.AppEntity;
+import com.cnshop.base.BaseApiService;
+import com.cnshop.base.BaseResponse;
+import com.cnshop.constant.Constants;
+import com.cnshop.core.bean.CnShopBeanUtils;
+import com.cnshop.member.mapper.UserMapper;
+import com.cnshop.member.mapper.entity.UserDo;
+import com.cnshop.member.output.dto.UserOutDto;
 import com.cnshop.member.service.MemberService;
-import com.cnshop.member.feign.WeixinServiceFeign;
+import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -13,12 +18,23 @@ import org.springframework.web.bind.annotation.RestController;
  * @description: 会员实现类
  */
 @RestController
-public class MemberServiceImpl implements MemberService {
+public class MemberServiceImpl extends BaseApiService<UserOutDto> implements MemberService {
+
 
     @Autowired
-    private WeixinServiceFeign weixinServiceFeign;
+    private UserMapper userMapper;
+
     @Override
-    public BaseResponse<AppEntity> memberToWeixin() {
-        return weixinServiceFeign.getApp();
+    public BaseResponse<UserOutDto>  existMobile(String mobile) {
+        // 1.验证参数
+        if (StringUtils.isEmpty(mobile)) {
+            return setResultError("手机号码不能为空!");
+        }
+        // 2.根据手机号码查询用户信息 单独定义code 表示是用户信息不存在把
+        UserDo userEntity = userMapper.existMobile(mobile);
+        if (userEntity == null) {
+            return setResultError(Constants.HTTP_RES_CODE_EXISTMOBILE_203, "用户信息不存在!");
+        }
+        return setResultSuccess(CnShopBeanUtils.doToDto(userEntity, UserOutDto.class));
     }
 }
