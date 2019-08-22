@@ -1,229 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d95ec66a-d2e7-40e9-b5b2-1f81089d5eb1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cn-shop-common/cn-shop-common-core/src/main/java/com/cnshop/base/BaseDo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-common/cn-shop-common-core/src/main/java/com/cnshop/core/type/TypeCastHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-common/cn-shop-common-core/src/main/java/com/cnshop/core/utils/RedisDataSoureceTransaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-common/cn-shop-common-web-core/cn-shop-common-web-core.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-common/cn-shop-common-web-core/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-common/cn-shop-common-web-core/src/main/java/com/cnshop/web/base/BaseWebController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-common/cn-shop-common-web-core/src/main/java/com/cnshop/web/bean/MeiteBeanUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-common/cn-shop-common-web-core/src/main/java/com/cnshop/web/utils/CookieUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-common/cn-shop-common-web-core/src/main/java/com/cnshop/web/utils/RandomValidateCodeUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/cn-shop-portal-web.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/java/com/cnshop/AppPortalWeb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/java/com/cnshop/code/VerifyController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/java/com/cnshop/member/controller/LoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/java/com/cnshop/member/controller/RegisterController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/java/com/cnshop/member/controller/req/vo/LoginVo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/java/com/cnshop/member/controller/req/vo/RegisterVo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/java/com/cnshop/member/feign/MemberLoginServiceFeign.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/java/com/cnshop/member/feign/MemberRegisterServiceFeign.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/java/com/cnshop/member/feign/MemberServiceFeign.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/java/com/cnshop/portal/controller/IndexController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/java/com/cnshop/web/constants/WebConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/css/layui.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/css/layui.mobile.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/css/modules/code.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/css/modules/laydate/default/laydate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/css/modules/layer/default/icon-ext.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/css/modules/layer/default/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/css/modules/layer/default/layer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/css/modules/layer/default/loading-0.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/css/modules/layer/default/loading-1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/css/modules/layer/default/loading-2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/font/iconfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/font/iconfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/font/iconfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/font/iconfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/0.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/10.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/11.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/12.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/13.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/14.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/15.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/16.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/17.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/18.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/19.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/20.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/21.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/22.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/23.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/24.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/25.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/26.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/27.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/28.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/29.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/3.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/30.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/31.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/32.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/33.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/34.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/35.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/36.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/37.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/38.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/39.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/4.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/40.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/41.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/42.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/43.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/44.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/45.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/46.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/47.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/48.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/49.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/5.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/50.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/51.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/52.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/53.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/54.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/55.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/56.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/57.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/58.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/59.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/6.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/60.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/61.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/62.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/63.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/64.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/65.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/66.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/67.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/68.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/69.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/7.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/70.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/71.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/8.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/images/face/9.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/lay/modules/carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/lay/modules/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/lay/modules/colorpicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/lay/modules/element.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/lay/modules/flow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/lay/modules/form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/lay/modules/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/lay/modules/laydate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/lay/modules/layedit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/lay/modules/layer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/lay/modules/laypage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/lay/modules/laytpl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/lay/modules/mobile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/lay/modules/rate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/lay/modules/slider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/lay/modules/table.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/lay/modules/tree.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/lay/modules/upload.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/lay/modules/util.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/layui.all.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/layui/layui.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/css/register.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/font/iconfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/font/iconfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/font/iconfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/font/iconfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/banner_small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/beitao1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/beitao2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/beitao3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/beitao4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/beitao5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/beitao6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/goods_img1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/goods_img2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/goods_img3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/goods_img4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/goods_img5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/goods_img6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/goods_img7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/goods_img8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/goods_img9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/home_img1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/home_img10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/home_img11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/home_img12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/home_img13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/home_img14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/home_img15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/home_img16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/home_img17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/home_img18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/home_img19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/home_img2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/home_img20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/home_img21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/home_img3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/home_img4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/home_img5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/home_img6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/home_img7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/home_img8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/home_img9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/load_bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/paging_banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/paging_img1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/paging_img2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/paging_img3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/paging_img4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/paging_img5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/paging_img6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/person.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/shopnone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/us_banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/us_img1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/us_img2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/us_img3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/us_img4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/us_img5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/img/us_imgbg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/js/house.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/static/res/static/js/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/templates/base/bottom.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/templates/base/head.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/templates/index.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/templates/member/login.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/templates/member/qqlogin.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/templates/member/register.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/cn-shop-portal.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cn-shop-portal/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cn-shop-basic/cn-shop-basic-springcloud-zuul/src/main/java/com/cnshop/AppGateWay.java" beforeDir="false" afterPath="$PROJECT_DIR$/cn-shop-basic/cn-shop-basic-springcloud-zuul/src/main/java/com/cnshop/AppGateWay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cn-shop-common/cn-shop-common-core/src/main/java/com/cnshop/base/BaseApiService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cn-shop-common/cn-shop-common-core/src/main/java/com/cnshop/base/BaseApiService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cn-shop-common/cn-shop-common-core/src/main/java/com/cnshop/core/bean/CnShopBeanUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/cn-shop-common/cn-shop-common-core/src/main/java/com/cnshop/core/bean/CnShopBeanUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cn-shop-common/cn-shop-common-core/src/main/java/com/cnshop/core/token/GenerateToken.java" beforeDir="false" afterPath="$PROJECT_DIR$/cn-shop-common/cn-shop-common-core/src/main/java/com/cnshop/core/token/GenerateToken.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cn-shop-common/cn-shop-common-core/src/main/java/com/cnshop/core/utils/RedisUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/cn-shop-common/cn-shop-common-core/src/main/java/com/cnshop/core/utils/RedisUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cn-shop-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cn-shop-common/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cn-shop-service-api/cn-shop-service-api-member/src/main/java/com/cnshop/member/service/MemberService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cn-shop-service-api/cn-shop-service-api-member/src/main/java/com/cnshop/member/service/MemberService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-member/src/main/java/com/cnshop/member/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-member/src/main/java/com/cnshop/member/mapper/UserMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-member/src/main/java/com/cnshop/member/mapper/UserTokenMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-member/src/main/java/com/cnshop/member/mapper/UserTokenMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-member/src/main/java/com/cnshop/member/service/impl/MemberLoginServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-member/src/main/java/com/cnshop/member/service/impl/MemberLoginServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-member/src/main/java/com/cnshop/member/service/impl/MemberRegisterServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-member/src/main/java/com/cnshop/member/service/impl/MemberRegisterServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-member/src/main/java/com/cnshop/member/service/impl/MemberServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-member/src/main/java/com/cnshop/member/service/impl/MemberServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-member/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-member/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-weixin/src/main/java/com/cnshop/weixin/feign/MemberServiceFeign.java" beforeDir="false" afterPath="$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-weixin/src/main/java/com/cnshop/weixin/feign/MemberServiceFeign.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-weixin/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cn-shop-service-impl/cn-shop-service-weixin/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d95ec66a-d2e7-40e9-b5b2-1f81089d5eb1" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/cn-shop-basic/target/" />
@@ -273,8 +51,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+            <state relative-caret-position="366">
+              <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -927,18 +705,26 @@
       <workItem from="1566215330048" duration="5475000" />
       <workItem from="1566221583241" duration="6928000" />
       <workItem from="1566301179329" duration="15872000" />
-      <workItem from="1566480789879" duration="6098000" />
+      <workItem from="1566480789879" duration="6397000" />
     </task>
+    <task id="LOCAL-00001" summary="实现注册登录功能">
+      <created>1566486967435</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1566486967435</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98112000" />
+    <option name="totallyTimeSpent" value="98411000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23773988" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23773988" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -948,8 +734,8 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49733475" weight="0.3286334" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49839914" visible="true" weight="0.4262473" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49733475" visible="true" weight="0.3286334" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49839914" weight="0.4262473" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -989,6 +775,10 @@
         <option value="1" />
       </list>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="实现注册登录功能" />
+    <option name="LAST_COMMIT_MESSAGE" value="实现注册登录功能" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1412,8 +1202,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cn-shop-portal/cn-shop-portal-web/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+        <state relative-caret-position="366">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
         </state>
       </provider>
     </entry>
