@@ -40,3 +40,6 @@
 #    url: jdbc:mysql://120.79.136.84:3306/cnshop??characterEncoding=utf8
 #    username: root
 #    password: 123456
+ribbon:
+  eureka:
+    enabled: true

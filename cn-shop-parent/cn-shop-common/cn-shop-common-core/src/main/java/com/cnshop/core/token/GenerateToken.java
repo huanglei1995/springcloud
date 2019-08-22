@@ -18,7 +18,6 @@ public class GenerateToken {
 
 	/**
 	 * 生成令牌
-	 *
 	 * @param keyPrefix 令牌key前缀
 	 * @param redisValue  redis存放的值
 	 * @return 返回token
@@ -29,7 +28,6 @@ public class GenerateToken {
 
 	/**
 	 * 生成令牌
-	 *
 	 * @param keyPrefix 令牌key前缀
 	 * @param redisValue redis存放的值
 	 * @param time 有效期

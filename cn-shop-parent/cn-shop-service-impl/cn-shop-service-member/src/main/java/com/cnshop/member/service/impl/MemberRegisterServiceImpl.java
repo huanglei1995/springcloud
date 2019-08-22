@@ -35,9 +35,9 @@ public class MemberRegisterServiceImpl extends BaseApiService<JSONObject> implem
     public BaseResponse<JSONObject> register(@RequestBody UserInpDto userInpDto, String registCode) {
         // 1.参数验证
         String userName = userInpDto.getUserName();
-        if (StringUtils.isEmpty(userName)) {
-            return setResultError("用户名称不能为空!");
-        }
+//        if (StringUtils.isEmpty(userName)) {
+//            return setResultError("用户名称不能为空!");
+//        }
         String mobile = userInpDto.getMobile();
         if (StringUtils.isEmpty(mobile)) {
             return setResultError("手机号码不能为空!");

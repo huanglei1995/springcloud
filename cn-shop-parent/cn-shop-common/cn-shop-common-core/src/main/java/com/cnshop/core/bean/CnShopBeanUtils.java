@@ -45,7 +45,7 @@ public class CnShopBeanUtils<Dto, Do> {
 	/**
 	 * do 转换为Dto 工具类
 	 * 
-	 * @param dtoEntity
+	 * @param doEntity
 	 * @param doEntity
 	 * @return
 	 */

@@ -13,6 +13,7 @@
         <module>cn-shop-service-impl</module>
         <module>cn-shop-common</module>
         <module>cn-shop-api-dto</module>
+        <module>cn-shop-portal</module>
     </modules>
     <packaging>pom</packaging>
 
